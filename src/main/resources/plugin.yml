@@ -1,0 +1,6 @@
+name: FolignoDocuments
+version: '${project.version}'
+main: dev.nico85.FolignoDocuments
+api-version: '1.16'
+load: STARTUP
+authors: [Nico85_]
